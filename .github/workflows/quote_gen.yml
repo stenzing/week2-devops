@@ -1,4 +1,4 @@
-name: test
+name: CI_quote_gen
 
 on:
   push:
