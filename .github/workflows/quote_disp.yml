@@ -2,6 +2,8 @@ name: test
 
 on:
   push:
+    paths:
+      - qoute_disp/**
     branches:
       - main
   pull_request:
